@@ -1,5 +1,4 @@
 # Prima-media-escalonada
-Prima media escalonada
 import pandas as pd
 import matplotlib.pyplot as plt
 # Datos de ejemplo
